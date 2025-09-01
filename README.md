@@ -1,31 +1,31 @@
-<h1 align="center">CROSSWELL — Gabriel Yusubov</h1>
-<p align="center">Custom Django, high-load auth security, elegant UI/UX.</p>
+<h1 align="center">CROSSWELL — Web Development Studio</h1>
+<p align="center">Мы делаем сайты и сервисы под ключ: от дизайна до продакшена.</p>
 
-<p align="center">
-  <a href="https://crosswell.ru">site</a> •
-  <a href="mailto:hi@crosswell.ru">email</a> •
-  <a href="https://t.me/yourtag">telegram</a>
-</p>
+---
 
-### What I do
-Web-dev на Django + Postgres, CI/CD, Nginx/Gunicorn, фронт — чистый, чёрно-белый, Notion-style.
+### 👨‍💻 О себе
+Я — фронтенд-разработчик в команде CROSSWELL.  
+Работаю с HTML, CSS, JavaScript (Vue, HTMX), делаю адаптивные интерфейсы, а также участвую в интеграции с Django-бэкендом.  
 
-### Selected work
-- **Purkin’s** — сеть кофе&паб (Django, i18n, SEO) · demo · screenshots  
-- **GY Shop** — e-commerce (варианты, скидки, CRM) · demo · screenshots  
-- **East-Mosaic Kennel** — карточки помётов, бронь, мультиязык · demo · screenshots
+---
 
-### Stack
-Python · Django · PostgreSQL · Redis · Celery · Nginx · Docker · HTMX/Vue · CI/CD (GH Actions)
+### 🚀 Что мы делаем
+- Корпоративные сайты  
+- Интернет-магазины с CRM  
+- Туристические платформы  
+- Лэндинги с динамическим контентом  
+- Внутренние сервисы и админ-панели  
 
-### Now
-Строю VPN-клиент (VLESS + Reality) и теннисный судейский софт с live-табло.
+---
 
+### 🏆 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=dark)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark)
 
+---
 
-![Django](https://img.shields.io/badge/Django-4.x-informational)
-![Postgres](https://img.shields.io/badge/PostgreSQL-15-informational)
-![CI](https://img.shields.io/github/actions/workflow/status/yourname/yourrepo/ci.yml?label=CI)
-
-
-
+### 📫 Контакты
+[🌐 crosswell.ru](https://crosswell.ru)  
+✉️ hi@crosswell.ru  
+📱 [Telegram](https://t.me/YOURTAG)
