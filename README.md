@@ -18,10 +18,12 @@
 
 ---
 
-### 🏆 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=dark)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark)
+### 🔥 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=scxr1et&theme=dark&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=scxr1et&show_icons=true&theme=dark&count_private=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scxr1et&layout=compact&theme=dark&hide_border=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=scxr1et&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15)
+
 
 ---
 
