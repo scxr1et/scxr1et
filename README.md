@@ -18,6 +18,8 @@ I am a frontend developer at CROSSWELL.
 ---
 
 ### 🔥 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=scxr1et)](https://git.io/streak-stats)
 ![GitHub Streak](https://streak-stats.demolab.com?user=scxr1et&theme=dark&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scxr1et&layout=compact&theme=dark&hide_border=true)
 
