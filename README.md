@@ -24,7 +24,7 @@ I am a frontend developer at CROSSWELL.
 ---
 
 ### 📫 Contacts
-🌐 [crosswell.ru](https://crosswell.ru)  
+🌐 [crosswell.ru](https://crosswell.tech)  
 ✉️ hi@crosswell.ru  
 📱 [Telegram](https://t.me/scxrllet)
 
