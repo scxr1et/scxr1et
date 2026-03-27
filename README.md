@@ -1,6 +1,6 @@
 <div align="center">
 
-# hey, i'm scxr1et 👋
+# hey, i'm V 👋
 
 **Frontend Engineer** · building production-grade React apps with clean architecture
 
@@ -34,7 +34,9 @@ Frontend developer at **CROSSWELL**. I build complex web applications from scrat
 ### 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=scxr1et&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=scxr1et&hide_border=true&background=00000000&ring=00E5FF&fire=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00E5FF&sideLabels=00BCD4&dates=546E7A" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scxr1et&theme=github_dark" alt="Profile Details" />
 </div>
 
 </div>
