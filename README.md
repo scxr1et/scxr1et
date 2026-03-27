@@ -16,20 +16,17 @@
 
 Frontend developer at **CROSSWELL**. I build complex web applications from scratch — from architecture to deployment.
 
-```
-▸ Feature-Sliced Design, strict TypeScript, code splitting
-▸ Custom HTTP clients with token management & automatic retry
-▸ WebSocket integrations, real-time data, smart reconnect logic
-▸ Theme systems, i18n, error boundaries, lazy loading
-▸ Telegram Mini Apps, PostHog analytics, Docker + Nginx deploys
-```
+- Scalable frontend architecture (FSD, code splitting, lazy loading)
+- TypeScript · React · Angular · Tailwind
+- Real-time apps with WebSockets & smart state management
+- From Figma to production — pixel-perfect, performant, deployed
 
 ---
 
 ### 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,postcss,nodejs,docker,nginx,vitest,figma,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,angular,nodejs,docker,nginx,vitest,figma,git,github&theme=dark" />
 </div>
 
 ---
