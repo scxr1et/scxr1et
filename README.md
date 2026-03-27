@@ -1,6 +1,6 @@
 <div align="center">
 
-# hey, i'm V 👋
+# hey, i'm scxrlet 👋
 
 **Frontend Engineer** · building production-grade React apps with clean architecture
 
